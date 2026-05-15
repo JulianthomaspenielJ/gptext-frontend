@@ -1,0 +1,59 @@
+{
+  "yarncount": {
+    "type":"yarncount",
+    "title": "Yarn Count Management",
+    "subtitle": "Manage yarn count master list",
+    "fetchUrl": "/get-all",
+        "saveUrl": "/create",
+
+    "deleteUrl": "/delete",
+    "dataKey": "yarncount",
+    "searchFields": ["name", "address", "gstnumber"],
+    "filterOptions": {
+      "status": ["Active", "Inactive"]
+    },
+    "columns": [
+
+      { "label": "Yarn Count", "field": "yarncount" }
+    ],
+    "fields": [
+      {
+        "name": "yarncount",
+        "label": "Yarn Count",
+        "type": "number",
+        "required": true,
+        "placeholder": "Enter Yarn count.."
+      }
+    ]
+  },
+  "loomtype": {
+        "type":"loomtype",
+
+    "title": "Loom Type Management",
+    "subtitle": "Manage loom type master list",
+    "fetchUrl": "/get-all",
+    "deleteUrl": "/delete",
+            "saveUrl": "/create",
+
+    "dataKey": "loomtype",
+    "searchFields": ["name", "address", "gstnumber"],
+    "filterOptions": {
+      "status": ["Active", "Inactive"]
+    },
+    "columns": [
+      {
+        "label": "Loom Type",
+        "field": "loomtype"
+      }
+    ],
+    "fields": [
+      {
+        "name": "loomtype",
+        "label": "Loom Type",
+        "type": "text",
+        "required": true,
+        "placeholder": "Enter Loom type"
+      }
+    ]
+  }
+}

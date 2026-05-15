@@ -1,0 +1,56 @@
+[33mcc45b57[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mjulian[m[33m, [m[1;31morigin/development[m[33m)[m Merge remote-tracking branch 'origin/julian' into development
+[33m033b4a3[m Merge remote-tracking branch 'origin/elango' into development
+[33m028ef28[m Task - Export
+[33meb8c43e[m[33m ([m[1;31morigin/julian[m[33m)[m average producitonperloomperday fixed in order
+[33mceca633[m changed order flow
+[33m9803827[m added multiple loom select
+[33m087daa6[m file upload native url changes
+[33m34c9e12[m Overall summary PDF export - T&A
+[33m0398a5f[m final order form fixes
+[33ma44a5b3[m T&A updation - Single screen for multiple looms also.
+[33mb69006a[m Loom Imported Listing, Task non-admin status updation, T&A plan creation for Individual Loom.
+[33m9863cd9[m added average summary for production planning
+[33m347db64[m ui changes in order form
+[33ma059858[m Loom Imports
+[33med02504[m Process Role changes and Login screen icon change
+[33md9a811d[m Merge branch 'julian' into development
+[33m9d87724[m Icon changes
+[33md2452f7[m Order Task Assigning (Based on the Role)
+[33mac56fdb[m Merge remote-tracking branch 'origin/julian' into development
+[33m66b976a[m updated daily schedule
+[33m9e06650[m Fixed multiple API Calls
+[33m1a6dea6[m Merge remote-tracking branch 'origin/julian' into development
+[33mcc08309[m Notification and Email Notifications Integration -Task mgnt
+[33mace3714[m bug fixes in order management
+[33m6658e65[m Push notifications
+[33m7691623[m Merge branch 'development' of https://github.com/elango-csense/gptextiles-frontend into elango
+[33m26c662b[m progress and available looms fixed
+[33mef8223e[m Removing comments in dashboard
+[33md1cb032[m Removing unwanted comments
+[33me0d95e4[m Merge remote-tracking branch 'origin/julian' into development
+[33ma679038[m added loading in beam recoincilation
+[33m2efb68e[m beam reconciliation management
+[33mfee115b[m Task UI, Task Filter, Production Planning Filter and some other Bugs, Loom changes
+[33m66b74ef[m Merge remote-tracking branch 'origin/julian' into development
+[33m099564f[m Settings - Password Updation
+[33m191525c[m Settings - Company
+[33m27e304b[m Fixed sidenavbar
+[33m453a521[m delivery schedule management
+[33m4078383[m Dashboard Integrations
+[33m10e74a8[m Merge remote-tracking branch 'origin/elango' into development
+[33m5b39477[m Dashboard changes
+[33m29186c2[m daily production managament
+[33md75695f[m Dashboard and Loading
+[33me4f0a8d[m api code updated
+[33m9bc9b10[m old api structure
+[33m5a8b7e9[m improved api structure
+[33m6bf57f9[m Merge branch 'elango' into development
+[33mc491b58[m Login Demo Cred changes
+[33m629f91d[m Login - Authentication and Authorization
+[33m32814e5[m[33m ([m[1;32mdevelopment[m[33m)[m order management completed
+[33m5c11bf5[m User management
+[33m0658468[m order management
+[33m362fb72[m Production Planning and Task Management Updates
+[33mc12da9a[m Loom CRUD completed.
+[33m20b5c1e[m weaver management completed
+[33mce4887d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/elango[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Initial push
